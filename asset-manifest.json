@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.4d89c573.css",
-    "main.js": "/static/js/main.173e99a4.js",
+    "main.js": "/static/js/main.c56fcfab.js",
     "static/js/770.70cd39b6.chunk.js": "/static/js/770.70cd39b6.chunk.js",
     "static/js/453.de317d9f.chunk.js": "/static/js/453.de317d9f.chunk.js",
     "static/media/home-bg.jpg": "/static/media/home-bg.8af6dc90ab8ac9bf763c.jpg",
     "static/media/cosmicvue.jpg": "/static/media/cosmicvue.7a5d45275421c8ae2883.jpg",
     "static/media/me.svg": "/static/media/me.c46ea6b7efb3a695047d7ea7be4cf22c.svg",
     "static/media/htru2.jpg": "/static/media/htru2.e355d2d211997d1e7ebd.jpg",
-    "static/media/Taha_s_Resume_English.pdf": "/static/media/Taha_s_Resume_English.eeb19aab4b67447b8ac2.pdf",
+    "static/media/Taha_s_Resume_English.pdf": "/static/media/Taha_s_Resume_English.91a6fa39ee7071740666.pdf",
     "static/media/ps.jpg": "/static/media/ps.5a8c5ec74e4419254228.jpg",
     "static/media/shell.png": "/static/media/shell.b81b1377c50d693b0275.png",
     "static/media/logo.png": "/static/media/logo.dd7e7266ffd26c16fcad.png",
@@ -21,12 +21,12 @@
     "index.html": "/index.html",
     "static/media/pre.svg": "/static/media/pre.8b51f3296de294c1ace3.svg",
     "main.4d89c573.css.map": "/static/css/main.4d89c573.css.map",
-    "main.173e99a4.js.map": "/static/js/main.173e99a4.js.map",
+    "main.c56fcfab.js.map": "/static/js/main.c56fcfab.js.map",
     "770.70cd39b6.chunk.js.map": "/static/js/770.70cd39b6.chunk.js.map",
     "453.de317d9f.chunk.js.map": "/static/js/453.de317d9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d89c573.css",
-    "static/js/main.173e99a4.js"
+    "static/js/main.c56fcfab.js"
   ]
 }
